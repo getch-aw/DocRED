@@ -5,59 +5,53 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object label="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:  Times New Roman;&quot;&gt;movie-recommender-system-tmdb-dataset/&lt;/span&gt;&lt;/p&gt;" id="DUQ8JvHc4afLD08pUwu4-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
             <mxGeometry x="161" y="82" width="250" height="30" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;model/&lt;/font&gt;&lt;/p&gt;" id="DUQ8JvHc4afLD08pUwu4-2">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
             <mxGeometry x="240" y="130" width="250" height="30" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family: Times New Roman;mso-fareast-font-family: sans serif,serif,monospace,auto;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;tmdb_5000_credits.csv&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" id="DUQ8JvHc4afLD08pUwu4-3">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="242" y="298" width="250" height="30" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+            <mxGeometry x="242" y="258" width="250" height="30" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;model/&lt;/font&gt;&lt;/p&gt;" id="DUQ8JvHc4afLD08pUwu4-4">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="380" y="188" width="250" height="30" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+            <mxGeometry x="295" y="168" width="250" height="30" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;model/&lt;/font&gt;&lt;/p&gt;" id="DUQ8JvHc4afLD08pUwu4-5">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="380" y="233" width="250" height="30" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+            <mxGeometry x="295" y="205" width="250" height="30" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Times New Roman;&quot;&gt;tmdb_5000_movies.csv&lt;/span&gt;&lt;/p&gt;" id="DUQ8JvHc4afLD08pUwu4-6">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="241" y="333" width="250" height="30" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+            <mxGeometry x="241" y="293" width="250" height="30" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="DUQ8JvHc4afLD08pUwu4-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="260" as="sourcePoint" />
-            <mxPoint x="480" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <object label="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family: Times New Roman;mso-fareast-font-family: sans serif,serif,monospace,auto;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;README.md&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" id="DUQ8JvHc4afLD08pUwu4-8">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="241" y="369" width="250" height="30" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+            <mxGeometry x="241" y="329" width="250" height="30" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family: Times New Roman;mso-fareast-font-family: sans serif,serif,monospace,auto;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;requirements.txt&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" id="DUQ8JvHc4afLD08pUwu4-9">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="240" y="404" width="250" height="30" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+            <mxGeometry x="240" y="364" width="250" height="30" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family: Times New Roman;mso-fareast-font-family: sans serif,serif,monospace,auto;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;generate_pickle_files.py&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" id="DUQ8JvHc4afLD08pUwu4-12">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="242" y="448" width="250" height="30" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+            <mxGeometry x="242" y="408" width="250" height="30" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family: Times New Roman;mso-fareast-font-family: sans serif,serif,monospace,auto;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;1_picklebasedApp.py&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" id="DUQ8JvHc4afLD08pUwu4-13">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="241" y="483" width="250" height="30" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+            <mxGeometry x="241" y="443" width="250" height="30" as="geometry" />
           </mxCell>
         </object>
       </root>
