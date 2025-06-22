@@ -54,6 +54,9 @@
             <mxGeometry x="241" y="443" width="250" height="30" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="DUQ8JvHc4afLD08pUwu4-14" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="400" height="410" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
